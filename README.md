@@ -19,3 +19,4 @@ mvn clean test
 * WEBDRIVER_LOCATION - specifies whether to run in local browser, in Selenium Grid or cloud. Default is local browser
 * BROWSER - chrome (default), firefox, phantomjs
 * SELENIDE_TIMEOUT - timeout value for Selenide element waits
+New part
