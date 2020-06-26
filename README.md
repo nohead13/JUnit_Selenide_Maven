@@ -20,3 +20,4 @@ mvn clean test
 * BROWSER - chrome (default), firefox, phantomjs
 * SELENIDE_TIMEOUT - timeout value for Selenide element waits
 New part
+New part
